@@ -11,10 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-.env
-.env.production
-.env.development
-.env.test
 target
 .cursorrules
 
@@ -47,3 +43,4 @@ tauri.windows.conf.json
 # Cursor
 .cursor
 .env*.local
+config.bat
